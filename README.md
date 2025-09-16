@@ -6,7 +6,7 @@ A simple, minimalist calculator for Android, created with an emphasis on clean d
 
 
 
-!\[App Screenshot](screenshot.png)
+!\[App Screenshot](https://github.com/GeorgeYT9769/baremath/blob/main/assets/screenshot.jpg)
 
 \*(Tip: Run the app in an emulator, take a screenshot, and save it as `screenshot.png` in the project's root directory to display it here.)\*
 
